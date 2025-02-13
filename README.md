@@ -72,3 +72,7 @@ This research presents a robust and explainable framework for live bird price fo
 
 This research offers a scalable and transparent solution for live bird price forecasting, providing significant value to decision-makers in the poultry industry and beyond.
 
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
+
+---
